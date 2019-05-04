@@ -1,9 +1,11 @@
 import React from 'react';
 
+import PlayingCard from './components/blocks/PlayingCard';
+
 function App() {
   return (
     <div className="App">
-      App
+      <PlayingCard />
     </div>
   );
 }
